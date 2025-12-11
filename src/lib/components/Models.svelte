@@ -66,11 +66,11 @@
             <!-- Text Content -->
 			<div>
 				<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6 leading-tight">
-					Only use the AI models<br />
-					that work best for you
+					Intelligent automation<br />
+					that adapts to you
 				</h2>
 				<p class="text-gray-400 text-lg max-w-md">
-					With Sana, you can choose and switch between leading models as you need.
+					Company uses smart orchestration to automatically capture, document, and organize your workflows—no manual configuration needed.
 				</p>
 			</div>
 		</div>

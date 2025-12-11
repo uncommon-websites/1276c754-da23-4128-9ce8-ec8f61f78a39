@@ -1,69 +1,73 @@
-<section class="py-24 bg-black text-white border-t border-white/5">
+<section class="py-24 bg-black text-white border-t border-white/5" id="testimonials">
 	<div class="max-w-[1400px] mx-auto px-6">
+		<div class="text-center mb-16">
+			<h2 class="text-4xl md:text-5xl font-serif font-normal mb-4">What founders say</h2>
+			<p class="text-gray-400 text-lg">Real results from startup founders building with Company</p>
+		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 			<!-- Testimonial 1 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"All of a sudden, a valuation memo that our CFO previously spent almost a week preparing was completed within three or four hours."
+					"We had a vision but no technical specs. Company turned our workflows into clear requirements and we shipped our MVP in half the time."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Sustainability Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading renewable energy company</div>
+					<div class="font-medium text-white text-sm">Sarah Chen</div>
+					<div class="text-gray-500 text-xs mt-0.5">Founder, HealthTech Startup</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 2 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"Sana gives us control over the AI, allowing us to choose the material it accesses and tailor its parameters to our specific needs."
+					"As a non-technical founder, I was struggling to communicate with developers. Company bridges that gap perfectly—now we're all on the same page."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Executive Vice President</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global medical technology provider</div>
+					<div class="font-medium text-white text-sm">Marcus Rodriguez</div>
+					<div class="text-gray-500 text-xs mt-0.5">CEO, Fintech Platform</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 3 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana Agents, even colleagues who aren't tech-savvy can leverage AI in their everyday work. It's empowered everyone, not just the experts."
+					"The transparency is incredible. We can see exactly how our workflows translate into technical requirements. It's built trust with our entire team."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Head of Digitalization</div>
-					<div class="text-gray-500 text-xs mt-0.5">Major real estate group</div>
+					<div class="font-medium text-white text-sm">Emily Watson</div>
+					<div class="text-gray-500 text-xs mt-0.5">Co-founder, SaaS Startup</div>
 				</div>
 			</div>
 
             <!-- Testimonial 4 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, our sales prep is now 10x quicker. Instead of spending hours gathering data manually, our team can instantly access the research insights they need—freeing them to focus on designing more meaningful, strategic client conversations."
+					"Company helped us document processes we didn't even know we had. Now our development team has everything they need to build exactly what we envisioned."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Product Operations Lead</div>
-					<div class="text-gray-500 text-xs mt-0.5">International research and analytics firm</div>
+					<div class="font-medium text-white text-sm">David Kim</div>
+					<div class="text-gray-500 text-xs mt-0.5">Founder, E-commerce Platform</div>
 				</div>
 			</div>
 
             <!-- Testimonial 5 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"We're leveraging our AI agents to find and compare product information, build sales arguments, support R&D, and much more. We see real operational efficiency, and Sana has already provided us with a quick payback."
+					"We went from scattered ideas to a working product in weeks. The automated workflow capture saved us months of back-and-forth with developers."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">CEO</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global industrial automation company</div>
+					<div class="font-medium text-white text-sm">Priya Patel</div>
+					<div class="text-gray-500 text-xs mt-0.5">Founder, EdTech Startup</div>
 				</div>
 			</div>
 
             <!-- Testimonial 6 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, we're creating assistants to accelerate everything from deal analysis to portfolio reviews, transforming the way our investment teams operate."
+					"The best part? We can iterate fast. When we change our workflows, Company updates the requirements automatically. Game changer for early-stage startups."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Digital Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading private equity firm</div>
+					<div class="font-medium text-white text-sm">Alex Thompson</div>
+					<div class="text-gray-500 text-xs mt-0.5">Co-founder, AI Startup</div>
 				</div>
 			</div>
 		</div>

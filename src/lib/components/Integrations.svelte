@@ -29,17 +29,17 @@
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6 text-center">
 		<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-			Enterprise-grade<br />
-			integrations and security
+			Connect your<br />
+			favorite tools
 		</h2>
 		<p class="text-gray-400 text-lg max-w-2xl mx-auto mb-20">
-			Sana connects with 100+ applications and unifies your company's data securely.
+			Company integrates with the tools startups use every day, keeping your workflows secure and connected.
 		</p>
 
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20">
             <!-- Integrations -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                <div class="inline-block bg-primary-600 text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
                     Connect your daily tools seamlessly
                 </div>
                 
@@ -57,7 +57,7 @@
 
             <!-- Security -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                <div class="inline-block bg-primary-600 text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
                     Security you can stand by
                 </div>
                 
